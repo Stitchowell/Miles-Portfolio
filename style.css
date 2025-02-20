@@ -1,6 +1,6 @@
 body, html {
   height: 100%;
-  font-family: "Didot", "Times New Roman", serif; /* Fallback fonts for better compatibility */
+  font-family: "Didot", serif; /* Fallback fonts for better compatibility */
   font-weight: 500; /* Medium thickness */
   font-size: 18px; /* Adjust for readability */
   line-height: 1.6; /* Improves text clarity */
