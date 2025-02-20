@@ -48,7 +48,7 @@ body, html {
 
 .bg-b {
   background: #2d2d30;
-  color: #bdbdbd;
+  color: rgb(255, 235, 192);
 }
 .bg-w h3 {color: #fff;}
 .bg-w p {color: #fff;}
